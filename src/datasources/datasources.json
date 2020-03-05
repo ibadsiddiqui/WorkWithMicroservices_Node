@@ -1,10 +1,10 @@
 {
-  "loopback": {
+  "BHelp": {
     "host": "localhost",
     "port": 27017,
-    "database": "loopback",
+    "database": "BHelp",
     "password": "",
-    "name": "loopback",
+    "name": "BHelp",
     "user": "me",
     "authSource": "",
     "connector": "loopback-connector-mongodb"
