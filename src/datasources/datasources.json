@@ -1,0 +1,12 @@
+{
+  "loopback": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "loopback",
+    "password": "",
+    "name": "loopback",
+    "user": "me",
+    "authSource": "",
+    "connector": "loopback-connector-mongodb"
+  }
+}
